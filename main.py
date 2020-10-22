@@ -71,4 +71,4 @@ def msg_handle(message):
 
 # Bot start
 if __name__ == '__main__': # If file starting as main
-     bot.polling(none_stop=True) # Bot polling
+     bot.polling() # Bot polling
